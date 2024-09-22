@@ -1,0 +1,33 @@
+*{
+color : rgb(255, 255, 255);
+font-family:Arial, Helvetica, sans-serif;
+margin-left: 25px;
+margin-right: 25px;
+font-size: large;
+}
+
+h1,h2{
+    text-align: center;
+    font-size: larger;
+}
+
+body{
+    background-image:url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTU4NDgwMy1pbWFnZS1rd3Z4dmxjai5qcGc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    background-color: rgb(9, 9, 126);
+    color: aliceblue;
+    text-align: center;
+}
